@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -2106,8 +2106,8 @@
       "name": "oathtaker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2136,8 +2136,8 @@
       "name": "reanimated",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2166,8 +2166,8 @@
       "name": "werewolf(?)",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -2196,8 +2196,8 @@
       "name": "werewolf(unblooded)",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2226,8 +2226,8 @@
       "name": "werewolf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -2256,8 +2256,8 @@
       "name": "werewolf(sworn)",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -2286,8 +2286,8 @@
       "name": "werewolf(metis)",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 3
     }
   ],
@@ -2335,7 +2335,7 @@
       },
       "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.",
       "defName": "ReanimatedCorpse",
-      "enabled": false,
+      "enabled": true,
       "name": "reanimated corpse",
       "price": 1
     }
